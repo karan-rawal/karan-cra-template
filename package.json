@@ -1,0 +1,30 @@
+{
+    "name": "karan-cra-template",
+    "version": "1.0.0",
+    "keywords": [
+      "react",
+      "create-react-app",
+      "template",
+      "karan-rawal",
+      "typescript",
+      "eslint",
+      "prettier"
+    ],
+    "description": "The base template for Create React App with TypeScript, ESLint, and Prettier.",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/karan-rawal/karan-cra-template.git",
+      "directory": "./"
+    },
+    "license": "MIT",
+    "engines": {
+      "node": ">=18"
+    },
+    "bugs": {
+      "url": "https://github.com/karan-rawal/karan-cra-template/issues"
+    },
+    "files": [
+      "template",
+      "template.json"
+    ]
+  }
